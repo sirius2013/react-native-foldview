@@ -5,7 +5,7 @@ FoldingCell implementation in JavaScript. This project was inspired by the foldi
 
 <img align="right" width="360px" src="https://raw.githubusercontent.com/jmurzy/react-native-foldview/master/.github/screenshot.gif">
 
-#### Questions?
+#### Questions ?
 Feel free to reach out to me on Twitter [@jmurzy](https://twitter.com/jmurzy).
 
 ### Example
