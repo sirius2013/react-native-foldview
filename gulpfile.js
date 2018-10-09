@@ -4,7 +4,7 @@ import gulpMocha from 'gulp-mocha';
 import runSequence from 'run-sequence';
 
 const IGNOREDDIRS = ['!**/node_modules/**'];
-
+//update
 const SRCDIR = 'src';
 const EXAMPLESDIR = 'examples';
 const SPECDIR = 'spec';
